@@ -183,4 +183,4 @@ If you use this repository or derive work from it, please cite the accompanying 
 
 ## License
 
-Specify your chosen license in `LICENSE` (e.g., Apache-2.0 or MIT).
+MIT
