@@ -2,7 +2,7 @@
 
 A reproducible toolkit to ingest, analyze, and model social/search/news signals around H5N1, evaluate pre/post tone shifts around CDC announcement dates of the outbreak events, and explore whether outbreaks can be anticipated from discourse dynamics.
 
-Data Science Capstone - Term: Fall 2025, Harvard HSE
+Data Science Capstone - Term: Fall 2025, Harvard HSE\
 Noura Almansoori, Spencer Beaupre, Byeongsu Kim, Gazi Saief Mahmud, Renee Van Siclen
 
 
