@@ -1,6 +1,6 @@
 # H5N1 Digital Epidemiology: Early-Warning Signals from Online Discourse
 
-A reproducible toolkit to ingest, analyze, and model social/search/news signals around H5N1, evaluate pre/post tone shifts around the April 4, 2024 CDC announcement, and explore whether outbreaks can be anticipated from discourse dynamics.
+A reproducible toolkit to ingest, analyze, and model social/search/news signals around H5N1, evaluate pre/post tone shifts around CDC announcement dates of the outbreak events, and explore whether outbreaks can be anticipated from discourse dynamics.
 
 ---
 
